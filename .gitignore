@@ -2,3 +2,4 @@ stock_price_data_files_processed
 stock_price_data_files
 output
 logs
+__pycache__
