@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Processes sample price data and returns the outliners 
+> Processes sample price data and returns the outliers 
 
 ### 🏠 [Homepage](https://github.com/DragosV29/lseg_assessment)
 
